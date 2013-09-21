@@ -24,6 +24,6 @@ Using data attributes:
 
     <button data-toggle="alert" data-content="Hellow world!">Run It</button>
     
-For a complete documentation and demos, visite:
+For a complete documentation and demos, visit:
 
 <a href="http://eflexisjs.azurewebsites.net/">http://eflexisjs.azurewebsites.net/</a>
