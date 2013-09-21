@@ -20,7 +20,7 @@ Basic usage of a jQuery plugin:
 
     $('#mybutton').alert('This is a very nice alert.');
     
-You can also use the data attributes:
+Using data attributes:
 
     <button data-toggle="alert" data-content="Hellow world!">Run It</button>
     
