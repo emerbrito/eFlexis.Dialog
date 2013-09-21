@@ -1,0 +1,5 @@
+/**
+ * eflexis.dialog.js v0.1.0
+ *
+ * http://eflexisjs.azurewebsites.net/
+ */
